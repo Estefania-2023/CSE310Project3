@@ -1,32 +1,35 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+This project is a console-based Student Gradebook designed to strengthen my Java and object-oriented programming skills. It allows users to add students, manage and update grades, view averages, and save or load data from a file. The goal was to practice real-world programming concepts such as data management, user interaction, file handling, and the use of core Java features including variables, conditionals, loops, methods, classes, and the Java Collection Framework.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Tools Used
+-Visual Studio Code
+-Java Extension Pack (VS Code)
+-OpenJDK (Java Development Kit)
+-GitHub for version control
+-Windows Command Prompt / VS Code Terminal
 
-{Describe the programming language that you used and any libraries.}
+Programming Language
+-Java
+
+Libraries / Technologies
+-Java Standard Library
+-Java Collection Framework (ArrayList, HashMap)
+-File handling using FileWriter, BufferedReader, and FileReader
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+-[Oracle Java Documentation](https://docs.oracle.com/en/java/)
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3Schools Java Tutorial](https://www.w3schools.com/java/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add student deletion functionality
+- Allow exporting data to CSV format
+- Implement inheritance or interfaces for different user roles (Teacher/Admin)
